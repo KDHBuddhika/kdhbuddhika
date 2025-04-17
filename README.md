@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Springboot, Angular , Python**
+- 💬 Ask me about **Springboot, Angular ,React ,Python**
 
 - 📫 How to reach me **dineshhashan119@gmail.com**
 
